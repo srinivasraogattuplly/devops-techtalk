@@ -1,6 +1,6 @@
 # DevOps on AWS
 
-testing purpose
+remove test
 ## Clone this repository for demo 
 
 `git clone https://github.com/bhargavamin/devops-techtalk.git`
